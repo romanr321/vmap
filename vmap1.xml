@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+    <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+    </vmap:AdBreak>
+    <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
+    </vmap:AdBreak>
+    <vmap:AdBreak timeOffset="00:15:01.000" breakType="linear" breakId="midroll-1">
+    </vmap:AdBreak>
+    <vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
+    </vmap:AdBreak>
+</vmap:VMAP>
