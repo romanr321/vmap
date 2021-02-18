@@ -2,32 +2,44 @@
 <vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
     <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
         <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
-            
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[https://pbs.getpublica.com/v1/s2s-hb?site_id=6076&app_bundle=G1234&format=vast]]>
+            </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
     <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
         <vmap:AdSource id="preroll-ad-2" allowMultipleAds="false" followRedirects="true">
-            
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[https://pbs.getpublica.com/v1/s2s-hb?site_id=6076&app_bundle=G1234&format=vast]]>
+            </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
     <vmap:AdBreak timeOffset="00:00:46" breakType="linear" breakId="midroll">
         <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
-            
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[https://pbs.getpublica.com/v1/s2s-hb?site_id=6076&app_bundle=G1234&format=vast]]>
+            </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
     <vmap:AdBreak timeOffset="00:00:46" breakType="linear" breakId="midroll">
         <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
-           
+           <vmap:AdTagURI templateType="vast3">
+                <![CDATA[https://pbs.getpublica.com/v1/s2s-hb?site_id=6076&app_bundle=G1234&format=vast]]>
+            </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
     <vmap:AdBreak timeOffset="00:01:42" breakType="linear" breakId="midroll">
        <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
-            
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[https://pbs.getpublica.com/v1/s2s-hb?site_id=6076&app_bundle=G1234&format=vast]]>
+            </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
     <vmap:AdBreak timeOffset="00:01:42" breakType="linear" breakId="midroll">
        <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
-            
+            <vmap:AdTagURI templateType="vast3">
+                <![CDATA[https://pbs.getpublica.com/v1/s2s-hb?site_id=6076&app_bundle=G1234&format=vast]]>
+            </vmap:AdTagURI>
         </vmap:AdSource>
     </vmap:AdBreak>
 </vmap:VMAP>
