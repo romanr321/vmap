@@ -8,7 +8,7 @@
         </vmap:AdSource>
     </vmap:AdBreak>
     <vmap:AdBreak timeOffset="start" breakType="linear" breakId="preroll">
-        <vmap:AdSource id="preroll-ad-1" allowMultipleAds="false" followRedirects="true">
+        <vmap:AdSource id="preroll-ad-2" allowMultipleAds="false" followRedirects="true">
             <vmap:AdTagURI templateType="vast3">
                 <![CDATA[https://pbs.getpublica.com/v1/s2s-hb?site_id=6077&app_bundle=G1234&format=vast]]>
             </vmap:AdTagURI>
